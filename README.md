@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Goonies</h1>
-<h3 align="center">Self-taught study lover. Future python developer</h3>
+<h3 align="center">Self-taught study lover. Future programmer</h3>
 
 - 🔭 I’m currently working on **my studies**
 
