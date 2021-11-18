@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Goonies</h1>
 <h3 align="center">Self-taught study lover. Future android developer</h3>
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on **My studies 📚**
 
 - 🌱 I’m currently learning **Java and Kotlin**
 
