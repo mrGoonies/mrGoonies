@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My studies 📚**
 
-- 🌱 I’m currently learning **HTML&CSS**
+- 🌱 I’m currently learning **Javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
