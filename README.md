@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Goonies</h1>
-<h3 align="center">Self-taught study lover.</h3>
+<h3 align="center">Future IOS Dev 📱.</h3>
 
 - 🔭 I’m currently working on **My studies 📚**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Swift**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
