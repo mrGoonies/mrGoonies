@@ -10,9 +10,9 @@
   <br />
 </p>
 
-- 🌱  I’m currently learning Swift
-- 💬  Ask me about anything related to Python/Swift/Terminal/Programming in General
-- 📚 I'm interested in Cloud Computing
+- 🌱  I’m currently learning *Swift*
+- 💬  Ask me about anything related to *Python/Swift/Terminal/Programming in General*
+- 📚 I'm interested in *Cloud Computing*
   
    <!-- Stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrGoonies&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
