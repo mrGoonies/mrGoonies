@@ -20,9 +20,10 @@
 
 
 <h2 align="center">My Stats 🏆</h2>
+<div align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrGoonies&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrGoonies&show_icons=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrGoonies&langs_count=8&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
  <h2 align="center">Find Me 🥳</h3>
