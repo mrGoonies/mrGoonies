@@ -13,8 +13,8 @@
 
 <h2 align=>About me📋</h2>
   
-- 🌱  I’m currently learning *Swift*
-- 💬  Ask me about anything related to *Python/Swift/Terminal/Programming in General*
+- 🌱  I’m currently learning *Kotlin*
+- 💬  Ask me about anything related to *Python/Terminal/Programming in General*
 - 📚 I'm interested in *Cloud Computing*
   
 <!-- Stats -->
