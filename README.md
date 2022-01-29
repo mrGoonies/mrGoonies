@@ -15,7 +15,7 @@
   
 - 🌱  I’m currently learning *Android Development*
 - 💬  Ask me about anything related to *Python/Terminal/Programming in General*
-- 📚 I'm interested in *Cloud Computing*
+- 📚 I'm interested in *Cloud Computing* and *Back-End development*
   
 <!-- Stats -->
 <h2>My Stats 🏆</h2>
