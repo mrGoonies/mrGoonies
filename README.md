@@ -19,9 +19,16 @@
   
 <!-- Stats -->
 
+<h2>Language & Tools 🛠</h2>
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://kotlinlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" /> </a>
+  <a hreef="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" /> </a>
+  <a href="https://html.spec.whatwg.org/" targeet="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40" /> </a>
 
 
-<h2 align=>My Stats 🏆</h2>
+
+<h2>My Stats 🏆</h2>
 <div>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrGoonies&langs_count=8&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
