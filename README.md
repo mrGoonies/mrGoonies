@@ -13,7 +13,7 @@
 
 <h2 align=>About me📋</h2>
   
-- 🌱  I’m currently learning *Kotlin*
+- 🌱  I’m currently learning *Android Development*
 - 💬  Ask me about anything related to *Python/Terminal/Programming in General*
 - 📚 I'm interested in *Cloud Computing*
   
