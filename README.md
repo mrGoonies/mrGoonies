@@ -4,7 +4,7 @@
 <p>
   Welcome to my page!
   <br />
-  I'm Gabriel, future Software Engineer 👨‍💻 from Santiago, Chile 🇨🇱, currently studying "computer science" at the institute 👨‍🎓
+  I'm Gabriel, future IOS Dev 👨‍💻 from Santiago, Chile 🇨🇱, currently studying "computer science" at the institute 👨‍🎓
   <br />
   <br />
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coder GIF" width="500">
@@ -14,7 +14,7 @@
 
 <h2 align=>About me📋</h2>
   
-- 🌱  I am currently learning **JS** 
+- 🌱  I am currently learning **Swift** 
 - 💬  Ask me about anything related to *Python/Terminal/Programming in General*
 - 📚 I'm interested in *Cloud Computing* and *Back-End development*
   
