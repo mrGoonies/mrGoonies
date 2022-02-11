@@ -14,7 +14,7 @@
 
 <h2 align=>About me📋</h2>
   
-- 🌱  I am currently learning **Python** 
+- 🌱  I am currently learning **Javascript** 
 - 💬  Ask me about anything related to *Python/Terminal/Programming in General*
 - 📚 I'm interested in *Cloud Computing* and *Back-End development*
   
