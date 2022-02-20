@@ -4,7 +4,7 @@
 <p>
   Welcome to my page!
   <br />
-  I'm Gabriel, future Back-End Engineer 👨‍💻 from Santiago, Chile 🇨🇱, currently studying "computer science" at the institute 👨‍🎓
+  I'm Gabriel 👨‍💻 from Santiago, Chile 🇨🇱, currently studying "computer science" at the institute 👨‍🎓
   <br />
   <br />
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coder GIF" width="500">
@@ -14,7 +14,7 @@
 
 <h2 align=>About me📋</h2>
   
-- 🌱  I am currently learning **Javascript** 
+- 🌱  I'm Python developer 🐍.
 - 💬  Ask me about anything related to *Python/Terminal/Programming in General*
 - 📚 I'm interested in *Cloud Computing* and *Back-End development*
   
@@ -25,7 +25,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrGoonies&langs_count=8&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<h2>Language & Tools 🛠</h2>
+<h2> Technologies I love and use 🛠</h2>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a hreef="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" /> </a>
