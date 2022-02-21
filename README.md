@@ -12,7 +12,7 @@
   
 - 🌱  I'm Python developer 🐍.
 - 💬  Ask me about anything related to *Python/Terminal/Programming in General*
-- 📚 I'm interested in *Cloud Computing*, *Data* and *Back-End*
+- 📚 I'm interested in *Cloud Computing*, *Data (Data-Engineer and Data-Scientist)* and *Back-End*
   
 <!-- Stats -->
 <h2>My Stats 🏆</h2>
