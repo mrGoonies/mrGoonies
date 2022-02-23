@@ -1,6 +1,6 @@
 <div id="header">
   <h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
-  <p align="center">I'm Gabriel 👨‍💻 from Santiago, Chile 🇨🇱, currently studying "computer science" at the institute 👨‍🎓</small> </p>
+  <p align="center">I'm Gabriel 👨‍💻 from Santiago, Chile 🇨🇱. Currently studying "computer science" at the institute 👨‍🎓 </p>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coder GIF" width="500">
