@@ -10,7 +10,7 @@
 
 <h2 align=>About me📋</h2>
   
-- 🌱  I'm Python developer 🐍.
+- 👨‍🎓 I'm a student
 - 💬  Ask me about anything related to *Python/Terminal/Programming in General*
 - 📚 I'm interested in *Cloud Computing*, *Data (Data-Engineer and Data-Scientist)* and *Back-End*
   
