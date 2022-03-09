@@ -10,7 +10,7 @@
 
 <h2 align=>About me📋</h2>
   
-- 👨‍🎓 I'm a student
+- 👨‍🎓 I'm a student and learning *go*
 - 💬  Ask me about anything related to *Python/Terminal/Programming in General*
 - 📚 I'm interested in *Cloud Computing*, *Data* and *Back-End*
   
