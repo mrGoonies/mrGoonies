@@ -9,16 +9,14 @@
 <br />  
 
 <h2 align=>About me📋</h2>
-  
-- 👨‍🎓 I'm a student and learning *SwiftUI*
-- 💬  Ask me about anything related to *Python/Terminal/Programming in General*
-- 📚 I'm interested in *Cloud Computing*, *Data* and *Back-End*
-  
+
 <!-- Stats -->
 <h2>My Stats 🏆</h2>
-<div>
-   [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=mrGoonies)](https://github.com/evirunurm/github-stats)
-</div>
+
+  
+  [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=mrGoonies&peng=false)](https://github.com/evirunurm/github-stats)
+ 
+  [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=mrGoonies&pie=false)](https://github.com/evirunurm/github-stats)
 
 <h2> Technologies I love and use 🛠</h2>
 <p align="left">
