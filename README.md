@@ -17,8 +17,7 @@
 <!-- Stats -->
 <h2>My Stats 🏆</h2>
 <div>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrGoonies&langs_count=8&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+   [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=mrGoonies)](https://github.com/evirunurm/github-stats)
 </div>
 
 <h2> Technologies I love and use 🛠</h2>
