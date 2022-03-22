@@ -3,9 +3,9 @@
   
   <p>My name is Gabriel. I'm from Santiago, Chile and I'm a student 👨‍🎓.</p>
   <ul>
-    <li>I am currently preparing to be a Data Scientist with Python.</li>
+    <li>I am currently preparing to find my first job as a developer.</li>
     <li>Sometimes I write in medium about what I am learning and share my experience with other people through my articles.</li>
-    <li>I love learning new things every day regardless of whether they are focused on data science.</li>
+    <li>I love learning new things every day regardless of whether they are focused on programming.</li>
   </ul>    
 
 <h2>About Me 📋</h2>
