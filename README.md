@@ -15,7 +15,7 @@
   <li>I manage quite well with the command line, in my case I use <strong>ZSH</strong> but I have no problems with <strong>BASH</strong>.</li>
   <li>I have the necessary knowledge to work collaboratively with <strong>Git&GitHub</strong>.</li>
   <li>
-    My knowledge regarding cloud-based services like AWS, GCP and Azure is pretty basic. With AWS I have only created EC2 instances that I have subsequently connected via SSH from my personal computer and created a VM with Windows 10 in Azure to carry out work at the University. I am currently preparing to become certified in <strong>Azure Fundamentals (AZ-900)</strong>.
+    My knowledge regarding cloud-based services like AWS, GCP and Azure is pretty basic. With AWS I have only created EC2 instances that I have subsequently connected via SSH from my personal computer and created a VM with Windows 10 in Azure to carry out work at the University.
   </li>
 </ul>
 
