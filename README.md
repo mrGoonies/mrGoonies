@@ -33,7 +33,7 @@
   <a hreef="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" /> </a>
   <a href="https://html.spec.whatwg.org/" targeet="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40" /> </a>
   <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" width="40"/></a>
-  <a href="" target=""><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" /></a>
+  <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40" /></a>
 
  <h2>Find Me 🥳</h3>
  
