@@ -3,7 +3,7 @@
   
   <p>My name is Gabriel. I'm from Santiago, Chile and I'm a student 👨‍🎓.</p>
   <ul>
-    <li>I am currently preparing to find my first job as a IOS developer.</li>
+    <li>I am currently preparing to find my first job as a programmer.</li>
     <li>Sometimes I write in medium about what I am learning and share my experience with other people through my articles.</li>
     <li>I love learning new things every day regardless of whether they are focused on programming.</li>
   </ul>    
