@@ -10,7 +10,7 @@
 
 <h2>About Me 📋</h2>
 <ul>
-   <li><strong>Currently learning SQL</strong>.</li>
+   <li><strong>Currently learning SQL</strong> and <strong>C#</strong>.</li>
   <li>I'm pretty good with Python. working with virtual environments like <strong>venv</strong> and with the <strong>pip</strong> package installer.</li>
   <li>I have basic knowledge about SQL, managing tables (creating, adding, updating and deleting data) and querying data, although I am currently improving my skills with this language.</li>
   <li>I manage quite well with the command line, in my case I use <strong>ZSH</strong> but I have no problems with <strong>BASH</strong>.</li>
