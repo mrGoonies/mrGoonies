@@ -35,7 +35,7 @@
   <a href="https://html.spec.whatwg.org/" targeet="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40" /> </a>
   <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" width="40"/></a>
   <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40" /></a>
-  <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/" width="40" /></a>
+  <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" /></a>
 
  <h2>Find Me 🥳</h3>
  
