@@ -10,7 +10,7 @@
 
 <h2>About Me 📋</h2>
 <ul>
-  <li><strong>Currently prepare for  <i>Data Engineer</i></strong></li>
+  <li>Currently studying <strong>CSS and SQL</strong></li>
   <li>I'm pretty good with Python. working with virtual environments like <strong>venv</strong> and with the <strong>pip</strong> package installer.</li>
   <li>I have basic knowledge about SQL, managing tables (creating, adding, updating and deleting data) and querying data, although I am currently improving my skills with this language.</li>
   <li>I manage quite well with the command line, in my case I use <strong>ZSH</strong> but I have no problems with <strong>BASH</strong>.</li>
@@ -35,7 +35,7 @@
   <a href="https://html.spec.whatwg.org/" targeet="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40" /> </a>
   <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" width="40"/></a>
   <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40" /></a>
-  <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" /></a>
+  <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/" width="40" /></a>
 
  <h2>Find Me 🥳</h3>
  
