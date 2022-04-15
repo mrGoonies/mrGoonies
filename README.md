@@ -3,14 +3,14 @@
   
   <p>My name is Gabriel. I'm from Santiago, Chile and I'm a student 👨‍🎓.</p>
   <ul>
-    <li>I am currently preparing to find my first job as a programmer.</li>
+    <li>I am currently preparing to find my first job as a IOS Developer.</li>
     <li>Sometimes I write in medium about what I am learning and share my experience with other people through my articles.</li>
     <li>I love learning new things every day regardless of whether they are focused on programming.</li>
   </ul>    
 
 <h2>About Me 📋</h2>
 <ul>
-  <li>Currently studying <strong>CSS and SQL</strong></li>
+  <li>Currently studying <strong>Swift</strong></li>
   <li>I'm pretty good with Python. working with virtual environments like <strong>venv</strong> and with the <strong>pip</strong> package installer.</li>
   <li>I have basic knowledge about SQL, managing tables (creating, adding, updating and deleting data) and querying data, although I am currently improving my skills with this language.</li>
   <li>I manage quite well with the command line, in my case I use <strong>ZSH</strong> but I have no problems with <strong>BASH</strong>.</li>
