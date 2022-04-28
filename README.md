@@ -10,7 +10,7 @@
 
 <h2>About Me 📋</h2>
 <ul>
-  <li>I'm pretty good with Python. working with virtual environments like <strong>venv</strong> and with the <strong>pip</strong> package installer.</li>
+  <li>I'm used with Python. working with virtual environments like <strong>venv</strong> and with the <strong>pip</strong> package installer.</li>
   <li>I have basic knowledge about SQL, managing tables (creating, adding, updating and deleting data) and querying data, although I am currently improving my skills with this language.</li>
   <li>I manage quite well with the command line, in my case I use <strong>ZSH</strong> but I have no problems with <strong>BASH</strong>.</li>
   <li>I have the necessary knowledge to work collaboratively with <strong>Git&GitHub</strong>.</li>
