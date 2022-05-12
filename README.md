@@ -26,6 +26,8 @@
   [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=mrGoonies&peng=false)](https://github.com/evirunurm/github-stats)
  
   [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=mrGoonies&pie=false)](https://github.com/evirunurm/github-stats)
+  
+  ![stats](https://www.codewars.com/users/mrGoonies/badges/large)
 
 <h2> Technologies I love and use 🛠</h2>
 <p align="left">
