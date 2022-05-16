@@ -3,7 +3,7 @@
   
   <p>My name is Gabriel. I'm from Santiago, Chile and I'm a student 👨‍🎓.</p>
   
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrGoonies)  
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrGoonies&theme=gotham&area=true)  
   
   
   <h2>About Me 📋</h2>
