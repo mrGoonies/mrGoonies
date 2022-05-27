@@ -9,7 +9,7 @@
   
   <h2>About Me 📋</h2>
   
-  - 🔭 I’m currently working on My studies and my first job in technology.
+  - 🔭 I’m currently working on My studies and get my first job in technology.
   - 🌱 I’m currently learning **Swift** and **SwiftUI**
   - ⚡ Fun fact: On occasion I write on medium about what I am learning.
 
