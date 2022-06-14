@@ -1,7 +1,7 @@
 
   <h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
   
-  <p>My name is Gabriel. I'm from Santiago, Chile and I'm a student 👨‍🎓.</p>
+  <p>My name is Gabriel. I'm from Santiago, Chile and I'm <i>Computer Engineer</i> student 👨‍🎓.</p>
  <!-- 
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrGoonies&theme=gotham&area=true)  
   -->
@@ -10,8 +10,8 @@
   <h2>About Me 📋</h2>
   
   - 🔭 I’m currently working on My studies and get my first job in technology.
-  - 🌱 I’m currently learning **Go**
-  - ⚡ Fun fact: On occasion I write on medium about what I am learning.
+  - 🌱 I am currently learning to create native mobile apps for apple devices.
+  - ⚡ Fun fact: On occasion I write on dev about what I am learning.
 
 
 <!-- Stats -->
@@ -34,7 +34,11 @@
 
  <h2>Find Me 🥳</h3>
  
- <p align="center"><a href="https://github.com/mrGoonies" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/GooniesMunoz" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/goonies/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@munozgoonies" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+ <p align="center">
+    <a href="https://github.com/mrGoonies" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+    <a href="https://twitter.com/GooniesMunoz" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/goonies/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+    <a href="https://medium.com/@munozgoonies" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
  <div align="center">
   
