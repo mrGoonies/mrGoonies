@@ -10,8 +10,8 @@
   <h2>About Me 📋</h2>
   
   - 🔭 I’m currently working on My studies and get my first job in technology.
-  - 🌱 I am currently learning to create native mobile apps for apple devices.
-  - ⚡ Fun fact: On occasion I write on dev about what I am learning.
+  - 🌱 I am currently learning topics of my interest, such as Back-End development and especially Data Science.
+  - ⚡ Fun fact: On occasion I write on Medium about what I am learning.
 
 
 <!-- Stats -->
