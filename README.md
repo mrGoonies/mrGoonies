@@ -10,7 +10,7 @@
   <h2>About Me 📋</h2>
   
   - 🔭 I’m currently working on My studies and get my first job in technology.
-  - 🌱 I am currently learning topics of my interest, such as Back-End development and especially Data Science.
+  - 🌱 I am currently learning topics of my interest, such as Android Development, Back-End and DS.
   - ⚡ Fun fact: On occasion I write on Medium about what I am learning.
 
 
