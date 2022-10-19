@@ -1,7 +1,7 @@
 
   <h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
   
-  <p>My name is Gabriel. I'm from Santiago, Chile and I'm <i>Computer Engineer</i> student 👨‍🎓.</p>
+  <p>My name is Gabriel. I'm from Santiago, Chile and I'm <i>Computer Engineer</i> student 👨‍🎓 and I love to learn in a self-taught way 🙌.</p>
 
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrGoonies&theme=gotham&area=true)  
 
@@ -9,8 +9,8 @@
   
   <h2>About Me 📋</h2>
   
-  - 🔭 I’m currently working on My studies and get my first job in technology.
-  - 🌱 I am currently learning topics of my interest, such as Android Development, Back-End and DS.
+  - 🔭 I’m currently working on My studies and improve my skills as a developer.
+  - 🌱 I am currently learning Django.
   - ⚡ Fun fact: On occasion I write on Medium about what I am learning.
 
 
