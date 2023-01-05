@@ -10,8 +10,8 @@
   <h2>About Me 📋</h2>
   
   - 🔭 I’m currently working on My studies and improve my skills as a developer.
-  - 🌱 I am currently learning Django.
-  - ⚡ Fun fact: On occasion I write on Medium about what I am learning.
+  - 🌱 I am currently prepare for my studies (math / programming / soft skills)
+  - ⚡ Fun fact: On occasion I write on dev.to about what I am learning.
 
 
 <!-- Stats -->
