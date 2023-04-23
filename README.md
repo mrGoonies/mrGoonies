@@ -17,8 +17,6 @@
 <!-- Stats -->
 <h2>My Stats 🏆</h2>
 
-  ![stats](https://www.codewars.com/users/mrGoonies/badges/large)
-   
   [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=mrGoonies&pie=false)](https://github.com/evirunurm/github-stats)
   
 
