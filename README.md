@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact **I love learning new things and teaching**
 
+![codewars](https://www.codewars.com/users/mrGoonies/badges/large)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
