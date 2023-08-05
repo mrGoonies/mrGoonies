@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **ℹ Open source projects and 👥 communities**
 
-- 🤝 I’m looking for help with **🌱 Professional growth**
+- 🤝 I’m looking for help with **🌱 Professional growth | 🔥 Coding**
 
 - 💬 Ask me about **💻 General Programming | 🌱 Personal Growth**
 
