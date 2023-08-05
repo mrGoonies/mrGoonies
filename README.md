@@ -2,9 +2,9 @@
 <h3 align="center">Student and software developer 😁</h3>
 <img align="right" alt="coding gif" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZpODJxbHZtY3BreDZrc3d6cWRrbXRkd2t2YXAyNjNkb25ocXZpMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🌱 I’m currently learning **☁️ AWS | 👨‍💻 Golang**
+- 🌱 I’m currently learning **👨‍💻 Golang for Backend | 🎨 Improve frontend Skills**
 
-- 👯 I’m looking to collaborate on **ℹ️ Open source projects and 👥 communities**
+- 👯 I’m looking to collaborate on **ℹ Open source projects and 👥 communities**
 
 - 🤝 I’m looking for help with **🌱 Professional growth**
 
