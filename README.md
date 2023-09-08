@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **💻 General Programming | 🌱 Personal Growth**
 
-- 📫 How to reach me **gooniesdev@gmail.com**
-
 - ⚡ Fun fact **I love learning new things and teaching**
 
 ![codewars](https://www.codewars.com/users/mrGoonies/badges/large)
