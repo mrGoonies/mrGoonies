@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">Student and software developer 😁</h3>
+<h3 align="center">Student and data engineer 😁</h3>
 <img align="right" alt="coding gif" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZpODJxbHZtY3BreDZrc3d6cWRrbXRkd2t2YXAyNjNkb25ocXZpMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🌱 I’m currently **👨‍💻 Improve coding skills**
