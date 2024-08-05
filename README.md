@@ -9,6 +9,8 @@
 ![Static Badge](https://img.shields.io/badge/html-logo?style=for-the-badge&logo=HTML5&logoSize=40&color=black)
 ![Static Badge](https://img.shields.io/badge/css-logo?style=for-the-badge&logo=css3&logoColor=blue&logoSize=40&color=black)
 ![Static Badge](https://img.shields.io/badge/postgresql-logo?style=for-the-badge&logo=postgresql&logoSize=40&color=black)
+![Static Badge](https://img.shields.io/badge/Python-logo?style=for-the-badge&logo=python&color=black)
+
 
 
 
