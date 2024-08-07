@@ -11,6 +11,11 @@
 ![Static Badge](https://img.shields.io/badge/sqlite-logo?style=for-the-badge&logo=sqlite&logoColor=blue&color=black)
 ![Static Badge](https://img.shields.io/badge/Python-logo?style=for-the-badge&logo=python&color=black)
 
+<h3>You can find me at</h3>
+
+![Static Badge](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=blue&color=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgmunozcastro%2F)
+![Static Badge](https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&color=black&link=https%3A%2F%2Fmedium.com%2F%40munozgoonies)
+
 
 
 
