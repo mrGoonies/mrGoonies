@@ -1,7 +1,7 @@
 # 👋 Hi! A pleasure to have you here.
 
  <p>Welcome to my page!</p>
-<p>I'm Gabriel but you can call me Goonies, Data enthusiast📊, future Front-End Developer and computer science student from  Santiago, Chile 🇨🇱.</p>
+<p>I'm Gabriel but you can call me Goonies, Data enthusiast📊 and Devops, future Back-End Developer and computer science student from  Santiago, Chile 🇨🇱.</p>
 
 <h3>Things I code with</h3>
 
