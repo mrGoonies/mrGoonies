@@ -7,12 +7,11 @@
 
 #### Front-End
 ![Static Badge](https://img.shields.io/badge/html-logo?style=for-the-badge&logo=HTML5&logoSize=40&color=black)
-![Static Badge](https://img.shields.io/badge/css-logo?style=for-the-badge&logo=css3&logoColor=blue&logoSize=40&color=black)
-![Static Badge](https://img.shields.io/badge/javascript-logo?style=for-the-badge&logo=javascript&color=black)
-![Static Badge](https://img.shields.io/badge/tailwind-logo?style=for-the-badge&logo=tailwindcss&color=black)
+![Static Badge](https://img.shields.io/badge/css-logo?style=for-the-badge&logo=css&logoColor=blue&logoSize=40&color=black)
+
 
 #### Back-End
-![Static Badge](https://img.shields.io/badge/firebase-logo?style=for-the-badge&logo=firebase&color=black)
+![Static Badge](https://img.shields.io/badge/django-logo?style=for-the-badge&logo=django&color=black)
 
 #### Tools
 ![Static Badge](https://img.shields.io/badge/git-logo?style=for-the-badge&logo=git&logoSize=40&color=black)
