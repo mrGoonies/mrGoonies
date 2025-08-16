@@ -3,7 +3,7 @@ Computer science student and web development enthusiast. I currently work in IT 
 
 
 
-#### 🧰 Language and tools
+### 🧰 Language and tools
 ![Static Badge](https://img.shields.io/badge/html-logo?style=for-the-badge&logo=HTML5&logoSize=40&color=black)
 ![Static Badge](https://img.shields.io/badge/css-logo?style=for-the-badge&logo=css&logoColor=blue&logoSize=40&color=black)
 ![Static Badge](https://img.shields.io/badge/bootstrap-logo?style=for-the-badge&logo=bootstrap&logoColor=&logoSize=40&color=black)
