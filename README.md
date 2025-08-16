@@ -15,7 +15,7 @@ Computer science student and web development enthusiast. I currently work in IT 
 
 ![codewars](https://www.codewars.com/users/mrGoonies/badges/large)
 
-# Blog posts
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
