@@ -15,10 +15,6 @@ Computer science student and web development enthusiast. I currently work in IT 
 
 ![codewars](https://www.codewars.com/users/mrGoonies/badges/large)
 
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3>You can find me at</h3>
 
 ![Static Badge](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=blue&color=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgmunozcastro%2F)
